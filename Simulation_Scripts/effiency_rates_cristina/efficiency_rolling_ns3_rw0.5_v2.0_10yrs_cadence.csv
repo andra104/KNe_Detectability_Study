@@ -1,0 +1,8 @@
+dist_min_Mpc, dist_max_Mpc, metric, found, total, efficiency
+10, 600, KNePopMetric__blue_color_detect, 1970, 500000, 0.00394
+10, 600, KNePopMetric__multi_color_detect, 23572, 500000, 0.047144
+10, 600, KNePopMetric__multi_detect, 26791, 500000, 0.053582
+10, 600, KNePopMetric__red_color_detect, 3542, 500000, 0.007084
+10, 600, KNePopMetric__ztfrest_simple, 4165, 500000, 0.00833
+10, 600, KNePopMetric__ztfrest_simple_blue, 2424, 500000, 0.004848
+10, 600, KNePopMetric__ztfrest_simple_red, 2197, 500000, 0.004394
